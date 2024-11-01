@@ -1,0 +1,100 @@
+*1.3.2* 2012-04-15
+
+* New option in general settings for disabling ssl certificate check when doing API calls
+
+
+*1.3.1* 2012-04-02
+
+* Better error reporting for failed api calls
+
+
+*1.3.0* 2012-03-23
+
+* Adaptions for new banner codes for direct bookings
+* wpCONTAXE requires an API key - which can be generated on https://www.contaxe.com/de/wordpressplugin/ - from now on.
+
+
+*1.2.5* 2011-12-29
+
+* Made editor integration compatible with WordPress 3.3
+
+
+*1.2.4* 2010-12-02
+
+* removed syntax errors when short_open_tag was disabled
+
+
+*1.2.3* 2010-01-27
+
+* migrated to new widget API
+
+
+*1.2.2* 2009-08-26
+
+* fixed saving of banners
+
+
+*1.2.1* 2009-07-20
+
+* fixed admin layout 
+
+
+*1.2.0* 2009-06-22
+
+* added some new rules
+* switched to new ad code which supports multiple adtypes on the same place
+
+
+*1.1.5* 2008-06-16
+
+* renumbered adtype 15 to 50
+* fixed deletion of banners for wordpress 2.5
+
+
+*1.1.4* 2008-02-20
+
+* renamed form field which has been overlooked in 1.1.3
+
+
+*1.1.3* 2008-02-09
+
+* renamed form fields to prevent mod_security from blocking POST requests.
+
+
+*1.1.2* 2008-02-01
+
+* fixed highlighter preview
+
+
+*1.1.1* 2008-01-31
+
+* new rule for home page
+
+
+*1.1.0* 2008-01-28
+
+* "display rules" for banners / highlighter
+* small tooltips with help messages
+
+
+*1.0.2* 2008-01-23
+
+* Fixed ad injection into middle of posts.
+
+
+*1.0.1* 2008-01-21
+
+* Fixed editor integration.
+* Fixed sample code for template placement.
+* Removed sample code when listing banners.
+* Always show demo ads in post preview.
+* Hide ads on 404 pages.
+* Added fading notices when updating options.
+* New default "true" for "Show random ads" when creating new banners.
+* Integration of ads into text widgets with same code.
+* Fixed inclusion of additional php files. Fixes fatal error with open_basedir.
+
+
+*1.0.0* 2008-01-17
+
+* Initial release.
